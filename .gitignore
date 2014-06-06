@@ -1,0 +1,13 @@
+# for temp files
+Debug/*
+
+# for executable files
+*.exe
+
+# for project files
+*.vcxproj
+*.filters
+*.user
+
+# for bakup files
+bak/*

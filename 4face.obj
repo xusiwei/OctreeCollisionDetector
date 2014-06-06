@@ -1,0 +1,16 @@
+# serialized Convex data file.
+# It is simplest .obj file.
+# number of vertices: 4
+# number of triangles: 4
+
+# vertices:
+v -4.30159e-008 1 -4.30159e-008
+v 0.910684 -0.333333 -0.244017
+v -0.244017 -0.333333 0.910684
+v -0.666667 -0.333333 -0.666667
+
+# faces:
+f 1 3 2
+f 1 4 3
+f 1 2 4
+f 2 3 4
